@@ -1,6 +1,6 @@
 # Pre-work - tip_app
 
-tip_app is a tip calculator application for iOS.
+tip is a tip calculator application for iOS.
 
 Submitted by: Alec Moore
 
@@ -26,9 +26,8 @@ The following **additional** features are implemented:
 ## Video Walkthrough 
 
 Here's a walkthrough of implemented user stories:
-https://imgur.com/a/iAXM22M
 
-<img src='https://imgur.com/a/iAXM22M' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/lpHPQWx.gifv' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
