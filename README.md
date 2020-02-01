@@ -4,7 +4,7 @@ tip_app is a tip calculator application for iOS.
 
 Submitted by: Alec Moore
 
-Time spent: **X** hours spent in total
+Time spent: 5 hours spent in total
 
 ## User Stories
 
@@ -33,7 +33,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+As this was my first experience using git, uploading files proved to be a challenge
 
 ## License
 
